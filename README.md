@@ -15,5 +15,3 @@ Random forest model accuracy: 99.778%
 ## Results
 Selected model -> Random forest
 
-## Testing
-
