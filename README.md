@@ -8,9 +8,12 @@ The model was trained using data from the Crop Prediction dataset, which include
 
 ## Model & Training
 The model is trained using Supervised Learning Algorithms like Logistic Regression, Decision Trees and Random Forest.
+Logistic regression model accuracy: 97.045%
+Decision tree model accuracy: 99.318%
+Random forest model accuracy: 99.778%
 
 ## Results
-The model achieved an accuracy of 98%
+Selected model -> Random forest
 
 ## Testing
 
